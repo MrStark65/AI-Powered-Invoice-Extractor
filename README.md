@@ -527,10 +527,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-- 📧 Email: support@example.com
-- 💬 Discord: [Join our community](#)
-- 🐛 Issues: [GitHub Issues](#)
-- 📖 Docs: [Full Documentation](#)
+- 📧 Email: Lakshaysingh86.5@gmail.com
 
 ---
 
